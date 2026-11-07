@@ -2,6 +2,8 @@
 
 Small, dependency-free Node.js tools for planning a console download and converting the scheduled Xbox GTA VI pre-load instant to an IANA time zone. They run locally without an account, network calls or tracking.
 
+[Open the live download planner](https://lucymt.github.io/gtavice-launch-tools/) — use the calculator in your browser, no installation required. Inputs stay on the page.
+
 ```sh
 node launch-tools.mjs download 100 100
 node launch-tools.mjs xbox Europe/Istanbul
